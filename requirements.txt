@@ -1,1 +1,2 @@
-snipskit[mqtt]==0.5.3
+hermes_python>=0.1
+pytz
